@@ -1,0 +1,20 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Packaging artifacts
+build/
+dist/
+*.egg-info/
+
+# IDE/editor junk
+.idea/
+.vscode/
+*.swp
+
